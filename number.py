@@ -1,9 +1,9 @@
-a=int(input("enter the a value"))
+a=int(input(""))
 if(a>0):
-  print("a is positive")
+  print("positive")
 elif(a<0):
-  print("a is negative")
+  print("negative")
 elif(a==0):
-  print("a is zero")
+  print("zero")
 else:
-  print("a is invalid")
+  print(" invalid")
